@@ -31,17 +31,19 @@ A City Recommendation System based on income and preferences would be highly mar
 
 ### Data Sources:
 **Cost of Living Data:** Numbeo, Zillow, or government datasets
-1. **[NUMBEO Cost of Living index](https://www.numbeo.com/cost-of-living/rankings_current.jsp)**
-2. **[NUMBEO Property Price & Investment Index](https://www.numbeo.com/property-investment/rankings_current.jsp)**
+1. https://www.numbeo.com/cost-of-living/rankings_current.jsp
+2. 
 
 **Quality of Life Metrics:** Healthcare, crime rates, education, etc.
-1. **[NUMBEO ost of living index]([https://www.numbeo.com/cost-of-living/rankings_current.jsp](https://www.numbeo.com/quality-of-life/rankings_current.jsp))**
-2. **[NUMBEO Property Price & Investment Index](https://www.numbeo.com/property-investment/rankings_current.jsp)**
-3. 
+1. https://www.numbeo.com/quality-of-life/rankings_current.jsp
+2. https://www.numbeo.com/crime/rankings_current.jsp
+3. https://www.numbeo.com/health-care/rankings_current.jsp
+4. https://www.numbeo.com/pollution/rankings_current.jsp
+5. https://www.numbeo.com/traffic/rankings_current.jsp
 
-- NUMBEO https://www.numbeo.com/quality-of-life/rankings_current.jsp
 - **Job Market Data:** Employment rates and industry opportunities  
-- **Tax and Housing Policies:** Local and state taxes, rent trends  
+- **Tax and Housing Policies:** Local and state taxes, rent trends
+1. https://www.numbeo.com/property-investment/rankings_current.jsp
 
 ### Model Types:
 - **Collaborative Filtering:** Suggest cities based on preferences similar to those of others who relocated  
