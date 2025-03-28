@@ -30,8 +30,11 @@ A City Recommendation System based on income and preferences would be highly mar
 - Job market opportunities or industry relevance  
 
 ### Data Sources:
-- **Cost of Living Data:** Numbeo, Zillow, or government datasets  
-- **Quality of Life Metrics:** Healthcare, crime rates, education, etc.  
+**Cost of Living Data:** Numbeo, Zillow, or government datasets
+1. [NUMBEO cost of living index]( https://www.numbeo.com/cost-of-living/rankings_current.jsp)
+2. [NUMBEO property price & investment index](https://www.numbeo.com/property-investment/rankings_current.jsp)
+- **Quality of Life Metrics:** Healthcare, crime rates, education, etc.
+- NUMBEO https://www.numbeo.com/quality-of-life/rankings_current.jsp
 - **Job Market Data:** Employment rates and industry opportunities  
 - **Tax and Housing Policies:** Local and state taxes, rent trends  
 
