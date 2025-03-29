@@ -45,13 +45,18 @@ Build a **personalized city recommendation engine** that:
 - https://www.numbeo.com/cost-of-living/rankings_current.jsp
 - https://www.numbeo.com/quality-of-life/rankings_current.jsp
 - https://www.numbeo.com/traffic/rankings_current.jsp
+
 🌤️ **Climate & Geography**: NOAA, OpenWeatherMap
 - https://www.numbeo.com/pollution/rankings_current.jsp
+
 🏥 **Amenities**: Hospital ratings, school rankings, entertainment density
 - https://www.numbeo.com/health-care/rankings_current.jsp
+
 🔒 **Safety & Crime**: Numbeo Crime Index, FBI crime stats
 - https://www.numbeo.com/crime/rankings_current.jsp
-- 💼 **Job Market**: BLS employment rates, LinkedIn job trends, industry presence
+
+💼 **Job Market**: BLS employment rates, LinkedIn job trends, industry presence
+
 💸 **Housing & Taxes**: Rent trends, local income tax, property tax data
 - https://www.numbeo.com/property-investment/rankings_current.jsp
 
